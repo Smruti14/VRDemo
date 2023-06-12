@@ -88,16 +88,7 @@ public class TC_002_UserPage extends BaseClasslogin {
 	    JavascriptExecutor js = (JavascriptExecutor) driver;
 	    js.executeScript("window.scrollBy(0,350)", "");
 	    
-	    
-		user.drpclick();
-
-		user.EnterUsername("");
-		user.EnterFirstname("");
-		user.EnterLastname("");
-		user.Enterphone("");
-		user.Enteremail("");
-		user.Enterpassword("");
-		user.Entercpassword("");
+	   
 		user.ClickUser();
 
 		String actualgroupMessage = driver.findElement(By.xpath("//div[normalize-space()='Please select group']")).getText();

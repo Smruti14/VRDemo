@@ -17,10 +17,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
-
-import pageObjects.LoginPage;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
 
 public class BaseClass {
 
@@ -28,7 +26,7 @@ public class BaseClass {
 	public Logger logger;
 	public ResourceBundle rb;
 
-	@BeforeClass
+	@BeforeMethod
 	public void setup() {
 
 		rb = ResourceBundle.getBundle("config");// Load config.properties
@@ -45,30 +43,13 @@ public class BaseClass {
 		
 		driver.get(rb.getString("appURL"));
 		driver.manage().window().maximize();
-		LoginPage lp = new LoginPage(driver);
-
-	
-	
-	
-	/*
-	 * String title = "VR WORKS - Dispatch";
-	 * 
-	 * String actualTitle = driver.getTitle();
-	 * 
-	 * System.out.println("Verifying the page title has started");
-	 * Assert.assertEquals(actualTitle,title,"Page title doesnt match");
-	 * 
-	 * System.out.println("The page title has been successfully verified");
-	 * 
-	 * System.out.println("User logged in successfully");
-	 */
 	}
 	
 	
 
-	@AfterClass
+	@AfterMethod
 	public void tearDown() {
-	driver.quit();
+		driver.close();
 	}
 
 	public String randomeString() {

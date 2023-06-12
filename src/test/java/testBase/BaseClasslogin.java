@@ -11,19 +11,20 @@ import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.json.JSONArray;
 import org.json.JSONObject;
-
+import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.support.ui.Select;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
 
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
-
-
+import utils.JSONUtils;
 import utils.SessionManager;
 
 public class BaseClasslogin {
@@ -31,8 +32,10 @@ public class BaseClasslogin {
 	public static WebDriver driver;
 	public Logger logger;
 	public ResourceBundle rb;
+	public SessionManager sessionManager;
+	public boolean isLoggedin = false;
 
-	@BeforeClass
+	@BeforeMethod
 	public void setup() throws InterruptedException, IOException {
 
 		rb = ResourceBundle.getBundle("config");// Load config.properties
@@ -50,55 +53,71 @@ public class BaseClasslogin {
 		driver.navigate().to("https://vrmanaged1.com/login");
 		driver.manage().window().maximize();
 
-		
-		
-		/*
-		 * driver.findElement(By.id("users-email")).sendKeys("bestbeach");
-		 * driver.findElement(By.xpath("//a[normalize-space()='Next']")).click();
-		 * driver.findElement(By.id("users-password")).sendKeys("Winter-house2021");
-		 * driver.findElement(By.xpath("//select[@name='userlayout']")).click(); Select
-		 * drpCountry = new Select(driver.findElement(By.name("userlayout")));
-		 * drpCountry.selectByVisibleText("Select view or Default");
-		 * driver.findElement(By.id("loginSubmitBtn")).click();
-		 */
-		 
+		sessionManager = new SessionManager(driver);
+
 		// Get Cookies
+		this.putDataToSession();
+//		System.out.println(sessionManager.getCookiesData().toString());
+//		System.exit(0);
+		if (this.openDispatch()) {
 
-	        SessionManager sessionManager = new SessionManager(driver);
-
-	        // Method 1:
-	         sessionManager.storeSessionFile("VRWorks","bestbeach");
-	        // Method 2:
-
-			
-		     JSONObject existingSession = new JSONObject(); //
-			  existingSession.put("path","/"); //
-			  existingSession.put("domain",".vrmanaged1.com"); //
-			  existingSession.put("name","CAKEPHP"); //
-			  existingSession.put("isHttpOnly",true); //
-			  existingSession.put("isSecure",true); //
-			  existingSession.put("expiry","Sat Jun 10 13:51:24 IST 2023"); //
-			  existingSession.put("value","25c9faf2e369a6be04036802a7cfde12"); // //
-			  sessionManager.setCookies(existingSession);
-			 		
-		
-		/*
-		 * String title = "VR WORKS - Dispatch";
-		 * 
-		 * String actualTitle = driver.getTitle();
-		 * 
-		 * System.out.println("Verifying the page title has started");
-		 * Assert.assertEquals(actualTitle,title,"Page title doesnt match");
-		 * 
-		 * System.out.println("The page title has been successfully verified");
-		 * 
-		 * System.out.println("User logged in successfully");
-		 */
+		} else {
+//			System.out.println("hre");
+			try {
+				this.loginUser();
+				sessionManager.storeSessionFile("VRWorks", "bestbeach");
+			} catch (IOException e) {
+//				 TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
 	}
 
-	@AfterClass
+	public boolean openDispatch() {
+		driver.get("https://vrmanaged1.com/login");
+		try {
+			return driver.findElement(By.xpath("//h4[@class='mb-3 mb-md-0']")).isDisplayed();
+		} catch (Exception e) {
+			return false;
+		}
+	}
+
+	public boolean loginUser() {
+//			System.out.println("user login called");
+		driver.manage().deleteCookie(driver.manage().getCookieNamed("CAKEPHP"));
+		driver.get("https://vrmanaged1.com/login");
+		driver.findElement(By.id("users-email")).sendKeys("bestbeach"); //
+		driver.findElement(By.xpath("//a[normalize-space()='Next']")).click(); //
+		driver.findElement(By.id("users-password")).sendKeys("Winter-house2021"); //
+		driver.findElement(By.xpath("//select[@name='userlayout']")).click(); //
+		Select drpCountry = new Select(driver.findElement(By.name("userlayout"))); //
+		drpCountry.selectByVisibleText("Select view or Default"); //
+		driver.findElement(By.id("loginSubmitBtn")).click(); // // // Method 1: //
+		// TODO : identify that user is successfully loggedin
+//		  System.out.println("user login called finish");
+		isLoggedin = true;
+//		  boolean status = false;
+//		 
+		return isLoggedin;
+
+	}
+
+	public void putDataToSession() {
+		try {
+			JSONObject jo = JSONUtils.parseJsonFile("VRWorks.json");
+			JSONObject session_data = jo.getJSONObject("session_data");
+			JSONArray cookies = session_data.getJSONArray("cookies");
+			JSONObject cookie = (cookies.getJSONObject(cookies.length() - 1));
+			cookie.put("path", "/");
+			cookie.put("domain", "vrmanaged1.com");
+			sessionManager.setCookies(cookie);
+		} catch (Exception e) {
+		}
+	}
+
+	@AfterMethod
 	public void tearDown() {
-		// driver.quit();
+		//driver.quit();
 	}
 
 	public String randomeString() {

@@ -10,49 +10,46 @@ public class LoginPage extends BasePage{
 	public LoginPage(WebDriver driver) {
 		super(driver);
 	}
+
 	
-	@FindBy(xpath="//input[@id='users-email']")
-	WebElement txtemail;
+	@FindBy(id="users-email")
+	WebElement txtusername;
 	
-	@FindBy(xpath="//div[@class='mb-3 text-center']//a")
-	WebElement clicknextbtn;
+	@FindBy(xpath="//a[normalize-space()='Next']")
+	WebElement btnclick;
 	
-	@FindBy(xpath="//input[@id='users-password']")
-	WebElement txtpwd;
+	@FindBy(id="users-password")
+	WebElement txtpassword;
 	
 	@FindBy(xpath="//select[@name='userlayout']")
-	WebElement list_view;
+	WebElement selectView;
 	
 	@FindBy(id="loginSubmitBtn")
-	WebElement btn_login;
+	WebElement btnlogin;
 	
-	public void username(String email)
+	
+	public void enterUsername(String username)
 	{
-		try {
-			txtemail.sendKeys(email);
-		}catch(Exception e) {
-			
-		}
-	}
-	public void Clicknext()
-	{
-		clicknextbtn.click();
-	}
-	public void password(String pwd)
-	{
-		txtpwd.sendKeys(pwd);
+		txtusername.sendKeys(username);
 	}
 	
-	public void view(String type)
+	public void clickNext()
 	{
-		list_view.click();
-		Select view1=new Select(list_view);
-	
-		view1.selectByVisibleText(type);
+		btnclick.click();
 	}
-	
-	public void Clicklogin()
+	public void enterPassword(String password)
 	{
-		btn_login.click();
+		txtpassword.sendKeys(password);
+	}
+	public void selectview(String view)
+	{
+		selectView.click();
+		Select view1=new Select(selectView);
+	
+		view1.selectByVisibleText(view);
+	}
+	public void clickLogin()
+	{
+		btnlogin.click();
 	}
 }

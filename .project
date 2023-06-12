@@ -3,6 +3,10 @@
 	<name>VRDemo</name>
 	<comment></comment>
 	<projects>
+		<project>JavaProgram</project>
+		<project>SeleniumSesstion</project>
+		<project>VRManaged</project>
+		<project>VRManaged.1Demo</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

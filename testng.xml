@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testCases_ReservationDispatchFollow.TC_011_reservationtoInspectionTestCase"/>
+      <class name="testCases_ArrivalDeparture.TC_015_arrivalDepartureTestCase"/>
+      <class name="testCases_ArrivalDeparture.TC_016_DDTestArrivalDeparture"/>
+      <class name="testCases.TC_008_CustomeDispatchHousekeeperPage"/>
+      <class name="testCases_ReservationDispatchFollow.TC_014_reservationReadyTestCase"/>
+      <class name="testCases.TC_002_UserPage"/>
+      <class name="testBase.BaseClasslogin"/>
+      <class name="testCases.TC_005_ReservationGuestPage"/>
+      <class name="testCases.TC_007_ReservationGridPagewithreservation"/>
+      <class name="TestCases_Hold.TC_001_HoldResrvation"/>
+      <class name="testCases_ReservationDispatchFollow.TC_012_reservationHousekeepingTestCase"/>
+      <class name="testCases.TC_006_ReservationGrideWithQuickQuote"/>
+      <class name="testCases.TC_010_reservationGridHoldPage"/>
+      <class name="testCases_ArrivalDeparture.TC_015_arrivalDepartureTestCaseTest"/>
+      <class name="testBase.BaseClass"/>
+      <class name="testCases.TC_009_CustomeDispatchInspectorPage"/>
+      <class name="testCases.TC_004_ReservationGridPage"/>
+      <class name="testCases.TC_003_ContactsPage"/>
+      <class name="testCases_ReservationDispatchFollow.TC_013_reservationArrivalsTestCase"/>
+      <class name="testCases.TC_001_LoginPage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

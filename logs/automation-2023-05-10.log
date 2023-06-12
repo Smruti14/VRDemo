@@ -1,0 +1,593 @@
+13:51:15.135 [main] INFO  testCases.tets - in setup 
+13:55:07.325 [main] INFO  testCases.tets - in setup 
+13:55:26.925 [main] INFO  testCases.tets - in setup 
+13:57:57.650 [main] INFO  testCases.TC_001_LoginPage - in setup 
+14:00:19.303 [main] INFO  testCases.TC_004_ReservationGuestPage - in setup 
+14:24:27.681 [main] INFO  testCases.TC_004_ReservationGuestPage - in setup 
+15:25:54.644 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+16:07:57.988 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+16:10:01.685 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+16:10:48.201 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+16:33:18.537 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+16:42:10.695 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+16:43:37.043 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+16:48:59.644 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+17:28:27.372 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+17:35:00.303 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+17:37:37.443 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+17:39:39.632 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+17:41:07.902 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+17:46:30.795 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+17:48:30.973 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+17:53:20.064 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+23:02:04.770 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+23:04:24.018 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+23:07:10.780 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+23:09:28.598 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+23:10:40.617 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+23:13:31.496 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+11:14:37.261 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+12:00:25.619 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+12:06:04.671 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+12:20:17.279 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:14:32.796 [main] INFO  testCases.TC_001_LoginPage - in setup 
+13:38:02.931 [main] INFO  testCases.TC_003_ContactsPage - in setup 
+13:41:13.186 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+13:44:17.935 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+11:52:31.768 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+11:53:27.169 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+11:54:43.991 [main] INFO  testCases.TC_002_UserPage - in setup 
+11:57:15.780 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+11:59:40.559 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+12:03:45.550 [main] INFO  testCases.TC_002_UserPage - in setup 
+12:04:39.936 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+13:03:05.305 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+13:03:51.755 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+13:05:10.398 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+13:06:52.870 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+13:07:31.195 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+13:08:08.843 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+13:09:42.414 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+14:17:02.095 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+14:18:20.400 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+14:18:48.690 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+14:22:13.338 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+14:25:17.942 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+14:37:10.916 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+15:16:41.637 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+15:22:04.882 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+15:23:16.249 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+15:23:42.483 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+15:24:02.137 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+15:49:16.571 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+16:35:26.494 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+16:59:37.792 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+12:34:48.868 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:41:41.174 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:42:33.649 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:46:40.570 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:54:50.623 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:56:46.775 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:01:38.549 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:02:37.247 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:19:51.256 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:20:37.789 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:21:57.849 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:23:51.192 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:25:57.444 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:27:27.433 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:36:14.013 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:37:58.136 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:39:25.337 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:41:17.831 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:55:54.913 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:58:32.142 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:59:03.338 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:02:02.630 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:09:22.530 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:14:34.721 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:15:16.202 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:18:45.391 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:20:43.762 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:21:25.287 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:23:10.631 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:25:53.647 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:29:02.227 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:33:21.758 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:35:01.485 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:37:20.808 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:43:01.976 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+17:11:21.968 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+17:14:32.428 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+17:21:49.264 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+17:27:11.177 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+17:30:53.980 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+17:33:35.607 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+17:37:15.042 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+17:39:43.160 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+21:46:25.490 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+21:47:02.497 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+21:48:52.283 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+21:55:49.450 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+22:03:06.051 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+22:06:02.740 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+22:23:15.658 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+22:28:02.039 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+22:35:57.235 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+22:40:03.048 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+22:42:32.629 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+22:48:12.262 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+22:51:30.425 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+23:00:18.110 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:52:42.203 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:57:13.754 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:59:44.901 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:01:32.229 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:04:26.826 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:07:10.308 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:12:41.583 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:14:24.252 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:19:26.788 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+11:51:33.154 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+11:55:21.200 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:15:49.157 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:14:35.041 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:14:35.227 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:22:20.249 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:50:39.246 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:53:31.330 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:02:29.038 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:13:22.142 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:16:07.751 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:46:19.484 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:49:41.526 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:51:26.491 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:52:58.133 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:54:15.638 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:56:21.423 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+15:25:36.569 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+15:27:08.246 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+15:28:42.075 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+15:48:39.114 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+15:53:49.731 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+15:57:08.545 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:00:55.595 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:02:06.870 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:04:51.098 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:09:34.315 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:11:38.905 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:12:51.560 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:15:53.975 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:17:19.952 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:25:51.723 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:28:02.482 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+17:18:21.397 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+17:20:07.662 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+17:23:39.161 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+17:25:23.727 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+11:31:01.642 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+11:33:18.051 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+11:34:37.284 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+11:40:51.091 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+11:43:16.984 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+11:45:28.488 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+11:56:34.318 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:45:27.549 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:50:43.798 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:31:40.220 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:35:23.782 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:38:37.610 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:41:36.052 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:45:34.303 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:48:35.701 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:08:58.227 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:11:45.818 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:15:54.877 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:23:24.455 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:26:10.286 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:28:32.732 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:31:03.531 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:32:38.916 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:34:08.455 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:36:14.697 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:40:31.677 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:42:28.318 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:43:50.552 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:46:17.182 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:49:56.047 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:52:01.409 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:54:54.508 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:56:20.340 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:58:30.454 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+15:01:50.203 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+15:06:28.085 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+15:11:46.199 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+15:16:04.773 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+15:26:09.398 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+15:28:47.528 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+15:32:22.089 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+15:42:53.109 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+15:54:46.376 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:34:18.327 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:37:06.911 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:41:06.957 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:46:30.924 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:48:26.062 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+16:53:33.705 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+11:33:29.473 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+11:40:53.266 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:11:04.121 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:12:47.063 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:19:35.693 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:23:29.868 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:25:44.741 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:31:16.266 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:35:14.280 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:37:51.557 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:39:24.280 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:42:19.100 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:44:27.398 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:46:20.094 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:48:57.713 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:51:06.406 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:53:57.108 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:55:17.321 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:01:03.740 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:02:36.238 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:04:26.036 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:07:27.283 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:10:34.050 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:14:58.927 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:21:36.111 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:23:51.281 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:25:04.253 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:26:29.276 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:29:43.576 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:38:50.548 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:43:03.176 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:45:36.256 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+13:59:41.953 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:02:02.903 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:04:44.000 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+14:46:46.567 [main] INFO  testCases.TC_001_LoginPage - in setup 
+14:48:13.429 [main] INFO  testCases.TC_001_LoginPage - in setup 
+14:48:38.343 [main] INFO  testCases.TC_001_LoginPage - in setup 
+14:49:17.141 [main] INFO  testCases.TC_001_LoginPage - in setup 
+14:55:36.400 [main] INFO  testCases.TC_001_LoginPage - in setup 
+19:27:20.920 [main] INFO  testCases.TC_003_ContactsPage - in setup 
+19:27:53.428 [main] INFO  testCases.TC_002_UserPage - in setup 
+19:28:36.654 [main] INFO  testCases.TC_002_UserPage - in setup 
+14:45:28.406 [main] INFO  testCases.TC005ReservationGrideWithQuickQuote - in setup 
+12:30:52.544 [main] INFO  testCases.TC_001_LoginPage - in setup 
+13:21:27.237 [main] INFO  testCases.TC_001_LoginPage - in setup 
+13:24:21.509 [main] INFO  testCases.TC_001_LoginPage - in setup 
+13:26:55.379 [main] INFO  testCases.TC_001_LoginPage - in setup 
+13:27:09.755 [main] INFO  testCases.TC_001_LoginPage - in setup 
+13:27:17.907 [main] INFO  testCases.TC_001_LoginPage - in setup 
+13:28:18.381 [main] INFO  testCases.TC_001_LoginPage - in setup 
+13:28:32.454 [main] INFO  testCases.TC_001_LoginPage - in setup 
+13:28:40.585 [main] INFO  testCases.TC_001_LoginPage - in setup 
+13:39:04.668 [main] INFO  testCases.TC_001_LoginPage - in setup 
+13:39:20.026 [main] INFO  testCases.TC_001_LoginPage - in setup 
+13:39:29.076 [main] INFO  testCases.TC_001_LoginPage - in setup 
+14:55:29.214 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+10:00:53.149 [main] INFO  testCases.TC_002_UserPage - in setup 
+10:01:21.324 [main] INFO  testCases.TC_002_UserPage - in setup 
+11:15:12.595 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+11:16:18.371 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+11:17:07.078 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+11:17:36.417 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+11:18:06.660 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+11:18:37.311 [main] INFO  testCases.TC_004_ReservationGrid - in setup 
+11:23:36.722 [main] INFO  testCases.TC_002_UserPage - in setup 
+11:37:56.573 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+11:46:09.150 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+12:00:48.416 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+12:02:09.248 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+12:03:01.044 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+12:03:43.852 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+12:04:40.271 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+12:08:55.288 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+12:09:35.021 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+12:13:04.767 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+12:14:10.752 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+12:15:27.468 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+12:17:36.307 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+12:18:46.722 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+12:19:34.002 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+12:21:17.231 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+12:22:53.908 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+12:24:02.605 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+12:25:03.794 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+12:25:46.651 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+12:27:40.819 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+12:28:39.620 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+12:36:26.401 [main] INFO  testCases.TC_001_LoginPage - in setup 
+12:36:34.448 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+12:36:34.468 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithValidCredentials **
+12:36:41.287 [main] INFO  testCases.TC_001_LoginPage - ** Check Dispatch Page Open or Not**
+12:36:41.377 [main] INFO  testCases.TC_001_LoginPage - Test Case : Validate logging into the Application using valid credentials --PASS-- 
+12:36:41.380 [main] INFO  testCases.TC_001_LoginPage - ** Click on profile icon**
+12:36:41.441 [main] INFO  testCases.TC_001_LoginPage - ** Click on logout button**
+12:36:42.706 [main] INFO  testCases.TC_001_LoginPage - Test Case 1 : Validate logging into the Application using valid credentials --PASS-- 
+12:36:42.858 [main] INFO  testCases.TC_001_LoginPage - in setup 
+12:36:49.742 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+12:36:49.742 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithInvalidCredentials **
+12:36:49.742 [main] INFO  testCases.TC_001_LoginPage - ** Enter Invalid Username **
+12:36:49.933 [main] INFO  testCases.TC_001_LoginPage - ** Enter Invalid Password **
+12:36:51.222 [main] INFO  testCases.TC_001_LoginPage - Test Case 2 : Validate logging into the Application using invalid credentials (i.e. Invalid email address and Invalid Password) --PASS-- 
+12:36:51.315 [main] INFO  testCases.TC_001_LoginPage - in setup 
+12:37:01.881 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+12:37:01.882 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithInvalidCredentials **
+12:37:01.882 [main] INFO  testCases.TC_001_LoginPage - ** Enter Invalid Username **
+12:37:01.977 [main] INFO  testCases.TC_001_LoginPage - ** Enter valid Password **
+12:37:03.093 [main] INFO  testCases.TC_001_LoginPage - Test Case 3 : Validate logging into the Application using invalid email address and valid Password --PASS-- 
+12:37:03.184 [main] INFO  testCases.TC_001_LoginPage - in setup 
+12:37:09.686 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+12:37:09.688 [main] INFO  testCases.TC_001_LoginPage - ** Login With With Select view Dropdown **
+12:37:16.107 [main] INFO  testCases.TC_001_LoginPage - Test Case 5 : Validate Logging Into The Application With Select Dropdown --PASS-- 
+12:37:16.194 [main] INFO  testCases.TC_001_LoginPage - in setup 
+12:37:22.908 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+12:37:22.908 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithInvalidCredentials **
+12:37:22.908 [main] INFO  testCases.TC_001_LoginPage - ** Enter valid Username **
+12:37:22.998 [main] INFO  testCases.TC_001_LoginPage - ** Enter Invalid Password **
+12:37:24.163 [main] INFO  testCases.TC_001_LoginPage - Test Case 4 : Validate logging into the Application using valid email address and invalid Password) --PASS-- 
+12:37:24.235 [main] INFO  testCases.TC_001_LoginPage - in setup 
+12:37:30.788 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+12:37:30.788 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithInvalidCredentials **
+12:37:30.788 [main] INFO  testCases.TC_001_LoginPage - ** Dont enter email address into the 'E-Mail Address' field  **
+12:37:30.869 [main] INFO  testCases.TC_001_LoginPage - ** Dont enter password into the 'Password' field    **
+12:37:36.002 [main] INFO  testCases.TC_001_LoginPage - Test Case 5 : Validate logging into the Application without providing any credentials --PASS-- 
+12:37:54.181 [main] INFO  testCases.TC_002_UserPage - in setup 
+12:40:47.606 [main] INFO  testCases.TC_002_UserPage - in setup 
+12:41:39.568 [main] INFO  testCases.TC_002_UserPage - in setup 
+12:42:44.003 [main] INFO  testCases.TC_002_UserPage - in setup 
+12:43:30.547 [main] INFO  testCases.TC_002_UserPage - in setup 
+12:44:15.857 [main] INFO  testCases.TC_002_UserPage - in setup 
+12:44:44.386 [main] INFO  testCases.TC_002_UserPage - in setup 
+12:47:58.227 [main] INFO  testCases.TC_006_ReservationGrideWithQuickQuote - in setup 
+12:48:55.546 [main] INFO  testCases.TC_006_ReservationGrideWithQuickQuote - in setup 
+12:49:36.953 [main] INFO  testCases.TC_006_ReservationGrideWithQuickQuote - in setup 
+10:02:14.866 [main] INFO  testCases.TC_006_ReservationGrideWithQuickQuote - in setup 
+10:02:19.453 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+12:14:16.933 [main] INFO  testCases.TC_001_LoginPage - in setup 
+12:14:27.142 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+12:14:27.178 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithValidCredentials **
+12:14:34.899 [main] INFO  testCases.TC_001_LoginPage - ** Check Dispatch Page Open or Not**
+12:14:35.003 [main] INFO  testCases.TC_001_LoginPage - Test Case : Validate logging into the Application using valid credentials --PASS-- 
+12:14:35.008 [main] INFO  testCases.TC_001_LoginPage - ** Click on profile icon**
+12:14:35.097 [main] INFO  testCases.TC_001_LoginPage - ** Click on logout button**
+12:14:36.445 [main] INFO  testCases.TC_001_LoginPage - Test Case 1 : Validate logging into the Application using valid credentials --PASS-- 
+12:14:36.690 [main] INFO  testCases.TC_001_LoginPage - in setup 
+12:14:44.067 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+12:14:44.067 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithInvalidCredentials **
+12:14:44.068 [main] INFO  testCases.TC_001_LoginPage - ** Enter Invalid Username **
+12:14:44.261 [main] INFO  testCases.TC_001_LoginPage - ** Enter Invalid Password **
+12:14:45.795 [main] INFO  testCases.TC_001_LoginPage - Test Case 2 : Validate logging into the Application using invalid credentials (i.e. Invalid email address and Invalid Password) --PASS-- 
+12:14:45.885 [main] INFO  testCases.TC_001_LoginPage - in setup 
+12:14:53.031 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+12:14:53.031 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithInvalidCredentials **
+12:14:53.031 [main] INFO  testCases.TC_001_LoginPage - ** Enter Invalid Username **
+12:14:53.237 [main] INFO  testCases.TC_001_LoginPage - ** Enter valid Password **
+12:14:54.634 [main] INFO  testCases.TC_001_LoginPage - Test Case 3 : Validate logging into the Application using invalid email address and valid Password --PASS-- 
+12:14:54.724 [main] INFO  testCases.TC_001_LoginPage - in setup 
+12:15:02.155 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+12:15:02.156 [main] INFO  testCases.TC_001_LoginPage - ** Login With With Select view Dropdown **
+12:15:09.375 [main] INFO  testCases.TC_001_LoginPage - Test Case 5 : Validate Logging Into The Application With Select Dropdown --PASS-- 
+12:15:09.464 [main] INFO  testCases.TC_001_LoginPage - in setup 
+12:40:30.125 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+12:42:39.208 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+12:44:49.642 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+13:04:29.813 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+13:07:35.529 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+13:08:55.642 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+13:10:13.776 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+13:19:22.745 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+13:20:19.001 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+13:41:03.958 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+13:42:27.049 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+13:43:37.448 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+13:45:15.591 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+13:47:46.143 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+13:51:20.072 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+13:56:39.655 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+13:57:39.098 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+14:07:27.411 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+14:22:43.218 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+14:25:40.994 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+14:28:35.908 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+14:32:17.985 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+14:34:33.092 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+14:35:37.747 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+14:36:30.282 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+14:39:10.881 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+14:42:50.131 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+14:43:48.420 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+14:50:38.375 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+14:54:16.854 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+15:17:12.536 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+15:27:32.754 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+16:12:07.330 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+16:14:26.282 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+16:15:17.005 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+16:16:50.823 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+16:20:09.908 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+16:22:51.099 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+16:24:56.354 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+16:28:20.043 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+16:29:34.882 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+16:30:37.301 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+16:32:33.344 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+17:08:28.654 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+17:09:13.983 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+10:53:53.245 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+10:56:58.275 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+10:57:49.906 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+10:58:30.591 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+11:05:01.850 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+11:05:54.159 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+11:06:27.873 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+11:07:19.304 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+11:10:20.377 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+11:11:31.761 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+11:20:08.814 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+11:20:52.884 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+11:21:47.995 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+11:22:50.461 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+11:26:02.240 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+15:14:19.132 [main] INFO  testCases.TC_008_CustomeDispatchPage - in setup 
+16:04:16.983 [main] INFO  testCases.TC_008_CustomeDispatchHousekeeperPage - in setup 
+16:05:29.732 [main] INFO  testCases.TC_008_CustomeDispatchHousekeeperPage - in setup 
+16:08:31.608 [main] INFO  testCases.TC_009_CustomeDispatchInspectorPage - in setup 
+16:12:43.073 [main] INFO  testCases.TC_009_CustomeDispatchInspectorPage - in setup 
+16:14:35.741 [main] INFO  testCases.TC_009_CustomeDispatchInspectorPage - in setup 
+14:11:14.480 [main] INFO  testCases.TC_001_LoginPage - in setup 
+14:11:21.259 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+14:11:21.275 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithValidCredentials **
+14:11:27.139 [main] INFO  testCases.TC_001_LoginPage - ** Check Dispatch Page Open or Not**
+14:11:27.167 [main] INFO  testCases.TC_001_LoginPage - Test Case : Validate logging into the Application using valid credentials --PASS-- 
+14:11:27.169 [main] INFO  testCases.TC_001_LoginPage - ** Click on profile icon**
+14:11:27.205 [main] INFO  testCases.TC_001_LoginPage - ** Click on logout button**
+14:11:28.406 [main] INFO  testCases.TC_001_LoginPage - Test Case 1 : Validate logging into the Application using valid credentials --PASS-- 
+14:11:37.719 [main] INFO  testCases.TC_001_LoginPage - in setup 
+14:11:46.170 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+14:11:46.183 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithValidCredentials **
+14:11:51.757 [main] INFO  testCases.TC_001_LoginPage - ** Check Dispatch Page Open or Not**
+14:11:51.784 [main] INFO  testCases.TC_001_LoginPage - Test Case : Validate logging into the Application using valid credentials --PASS-- 
+14:11:51.785 [main] INFO  testCases.TC_001_LoginPage - ** Click on profile icon**
+14:11:51.821 [main] INFO  testCases.TC_001_LoginPage - ** Click on logout button**
+14:11:52.977 [main] INFO  testCases.TC_001_LoginPage - Test Case 1 : Validate logging into the Application using valid credentials --PASS-- 
+14:11:53.063 [main] INFO  testCases.TC_001_LoginPage - in setup 
+14:11:58.885 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+14:11:58.885 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithInvalidCredentials **
+14:11:58.885 [main] INFO  testCases.TC_001_LoginPage - ** Enter Invalid Username **
+14:11:58.982 [main] INFO  testCases.TC_001_LoginPage - ** Enter Invalid Password **
+14:12:00.090 [main] INFO  testCases.TC_001_LoginPage - Test Case 2 : Validate logging into the Application using invalid credentials (i.e. Invalid email address and Invalid Password) --PASS-- 
+14:12:00.134 [main] INFO  testCases.TC_001_LoginPage - in setup 
+14:12:05.996 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+14:12:05.997 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithInvalidCredentials **
+14:12:05.997 [main] INFO  testCases.TC_001_LoginPage - ** Enter Invalid Username **
+14:12:06.105 [main] INFO  testCases.TC_001_LoginPage - ** Enter valid Password **
+14:12:07.153 [main] INFO  testCases.TC_001_LoginPage - Test Case 3 : Validate logging into the Application using invalid email address and valid Password --PASS-- 
+14:12:07.234 [main] INFO  testCases.TC_001_LoginPage - in setup 
+14:12:13.797 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+14:12:13.797 [main] INFO  testCases.TC_001_LoginPage - ** Login With With Select view Dropdown **
+14:12:19.471 [main] INFO  testCases.TC_001_LoginPage - Test Case 5 : Validate Logging Into The Application With Select Dropdown --PASS-- 
+14:12:19.551 [main] INFO  testCases.TC_001_LoginPage - in setup 
+14:12:25.287 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+14:12:25.288 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithInvalidCredentials **
+14:12:25.288 [main] INFO  testCases.TC_001_LoginPage - ** Enter valid Username **
+14:12:25.389 [main] INFO  testCases.TC_001_LoginPage - ** Enter Invalid Password **
+14:12:26.471 [main] INFO  testCases.TC_001_LoginPage - Test Case 4 : Validate logging into the Application using valid email address and invalid Password) --PASS-- 
+14:12:26.544 [main] INFO  testCases.TC_001_LoginPage - in setup 
+14:12:33.062 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+14:12:33.063 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithInvalidCredentials **
+14:12:33.063 [main] INFO  testCases.TC_001_LoginPage - ** Dont enter email address into the 'E-Mail Address' field  **
+14:12:33.140 [main] INFO  testCases.TC_001_LoginPage - ** Dont enter password into the 'Password' field    **
+14:12:38.259 [main] INFO  testCases.TC_001_LoginPage - Test Case 5 : Validate logging into the Application without providing any credentials --PASS-- 
+14:13:07.027 [main] INFO  testCases.TC_002_UserPage - in setup 
+14:14:17.833 [main] INFO  testCases.TC_003_ContactsPage - in setup 
+14:15:34.619 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+14:19:15.844 [main] INFO  testCases.TC_005_ReservationGuestPage - in setup 
+14:20:27.822 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+14:22:27.468 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+14:23:01.935 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+14:25:13.357 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+14:25:42.068 [main] INFO  testCases.TC_004_ReservationGridPage - in setup 
+16:07:52.366 [main] INFO  testCases.TC_008_CustomeDispatchHousekeeperPage - in setup 
+16:08:46.784 [main] INFO  testCases.TC_008_CustomeDispatchHousekeeperPage - in setup 
+16:11:28.527 [main] INFO  testCases.TC_008_CustomeDispatchHousekeeperPage - in setup 
+16:19:22.115 [main] INFO  testCases.TC_008_CustomeDispatchHousekeeperPage - in setup 
+13:18:55.831 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+13:19:28.495 [main] INFO  testCases.TC_006_ReservationGrideWithQuickQuote - in setup 
+13:20:18.227 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+13:21:22.955 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+13:40:00.657 [main] INFO  testCases.TC_006_ReservationGrideWithQuickQuote - in setup 
+14:22:52.917 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+14:27:05.672 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+14:28:37.116 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+14:29:15.893 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+14:29:54.939 [main] INFO  testCases.TC_006_ReservationGrideWithQuickQuote - in setup 
+14:31:56.286 [main] INFO  testCases.TC_006_ReservationGrideWithQuickQuote - in setup 
+14:33:06.243 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+14:35:53.541 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+14:36:25.751 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:01:13.014 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:05:42.647 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:08:42.208 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:09:59.609 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:12:45.695 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:13:51.952 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:25:15.117 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:32:00.779 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:48:21.361 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:48:41.974 [main] INFO  testCases.TC_010_reservationGridHoldPage - ** Enter Valid details **
+15:50:04.921 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:50:24.894 [main] INFO  testCases.TC_010_reservationGridHoldPage - ** Enter Valid details **
+15:51:16.526 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:51:36.911 [main] INFO  testCases.TC_010_reservationGridHoldPage - ** Enter Valid details **
+15:52:25.622 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:52:46.705 [main] INFO  testCases.TC_010_reservationGridHoldPage - ** Enter Valid details **
+15:53:47.350 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:54:10.061 [main] INFO  testCases.TC_010_reservationGridHoldPage - ** Enter Valid details **
+15:54:39.525 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:54:59.647 [main] INFO  testCases.TC_010_reservationGridHoldPage - ** Enter Valid details **
+15:59:00.849 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:59:21.255 [main] INFO  testCases.TC_010_reservationGridHoldPage - ** Enter Valid details **
+16:02:46.904 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:03:07.295 [main] INFO  testCases.TC_010_reservationGridHoldPage - ** Enter Valid details **
+15:36:05.919 [main] INFO  testCases.TC_007_ReservationGridPagewithreservation - in setup 
+15:53:18.644 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+15:54:11.963 [main] INFO  testCases.TC_010_reservationGridHoldPage - ** Enter Valid details **
+16:02:52.443 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:04:12.631 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:25:42.546 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:26:56.167 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:28:22.738 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:36:26.167 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:38:36.518 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:39:13.961 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:40:40.430 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:41:10.702 [main] INFO  testCases.TC_010_reservationGridHoldPage - ** Enter Valid details **
+16:42:12.436 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:44:16.488 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:52:17.861 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:53:51.087 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:54:16.845 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:55:05.856 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:55:46.801 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:57:15.665 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+16:58:27.641 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+17:01:06.375 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+17:01:31.237 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+17:01:54.488 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+17:02:15.852 [main] INFO  testCases.TC_010_reservationGridHoldPage - ** Enter Valid details **
+17:03:53.754 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+17:04:23.731 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+17:04:48.414 [main] INFO  testCases.TC_010_reservationGridHoldPage - ** Enter Valid details **
+17:04:52.603 [main] INFO  testCases.TC_010_reservationGridHoldPage - in setup 
+11:21:25.027 [main] INFO  testCases.TC_001_LoginPage - in setup 
+11:21:34.285 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+11:21:34.313 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithValidCredentials **
+11:21:40.913 [main] INFO  testCases.TC_001_LoginPage - ** Check Dispatch Page Open or Not**
+11:21:40.960 [main] INFO  testCases.TC_001_LoginPage - Test Case : Validate logging into the Application using valid credentials --PASS-- 
+11:21:41.004 [main] INFO  testCases.TC_001_LoginPage - ** Click on profile icon**
+11:21:41.075 [main] INFO  testCases.TC_001_LoginPage - ** Click on logout button**
+11:21:42.422 [main] INFO  testCases.TC_001_LoginPage - Test Case 1 : Validate logging into the Application using valid credentials --PASS-- 
+11:21:42.581 [main] INFO  testCases.TC_001_LoginPage - in setup 
+11:21:47.991 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+11:21:47.992 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithInvalidCredentials **
+11:21:47.992 [main] INFO  testCases.TC_001_LoginPage - ** Enter Invalid Username **
+11:21:48.161 [main] INFO  testCases.TC_001_LoginPage - ** Enter Invalid Password **
+11:21:49.574 [main] INFO  testCases.TC_001_LoginPage - Test Case 2 : Validate logging into the Application using invalid credentials (i.e. Invalid email address and Invalid Password) --PASS-- 
+11:21:49.719 [main] INFO  testCases.TC_001_LoginPage - in setup 
+11:21:55.159 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+11:21:55.160 [main] INFO  testCases.TC_001_LoginPage - ** LoginWithInvalidCredentials **
+11:21:55.160 [main] INFO  testCases.TC_001_LoginPage - ** Enter Invalid Username **
+11:21:55.349 [main] INFO  testCases.TC_001_LoginPage - ** Enter valid Password **
+11:21:56.696 [main] INFO  testCases.TC_001_LoginPage - Test Case 3 : Validate logging into the Application using invalid email address and valid Password --PASS-- 
+11:21:56.791 [main] INFO  testCases.TC_001_LoginPage - in setup 
+11:22:02.342 [main] INFO  testCases.TC_001_LoginPage - ** Starting TC_001_LoginPage **
+11:22:02.343 [main] INFO  testCases.TC_001_LoginPage - ** Login With With Select view Dropdown **
+11:22:08.577 [main] INFO  testCases.TC_001_LoginPage - Test Case 5 : Validate Logging Into The Application With Select Dropdown --PASS-- 
+11:22:08.667 [main] INFO  testCases.TC_001_LoginPage - in setup 

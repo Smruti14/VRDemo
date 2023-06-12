@@ -6,7 +6,6 @@ import java.util.List;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
 
@@ -16,12 +15,13 @@ import testBase.BaseClasslogin;
 
 public class TC_005_ReservationGuestPage extends BaseClasslogin {
 	@Test
-	public void verifycreatevalidNewGuest() throws InterruptedException {
+	public void verifyCreateValidNewGuest() throws InterruptedException {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 
 		ReservationMenu reservation = new ReservationMenu(driver);
 		reservation.clickReservationMenu();
 		reservation.clickreservationgrid();
+		String unitname = "SMR001";
 
 		Actions act = new Actions(driver);
 		int singleDayWidth = 24;
@@ -30,11 +30,13 @@ public class TC_005_ReservationGuestPage extends BaseClasslogin {
 																													// 220
 																													// //
 																													// 220
-		WebElement unit = driver.findElement(By.xpath(
-				"//table[@class='table table-bordered table-striped unitscode-holder']//td[contains(@unit_id,'1503')]"));// 240,
-																															// 277
+		WebElement unit = driver.findElement(By
+				.xpath("//table[@class='table table-bordered table-striped unitscode-holder']//td[contains(@unit_code,'"
+						+ unitname + "')]"));// 240,
+												// 277
 		WebElement quote = driver.findElement(By.xpath("//a[@id='quickquotemodelanchor']"));
-
+		// Search unit
+		driver.findElement(By.xpath("//input[@name='username']")).sendKeys(unitname);
 		// this will find all matching nodes in calendar
 		List<WebElement> allDates = driver.findElements(By.xpath(
 				"//div[@class='day-header-holder']/table[@class='table']//tr[contains(@class,'daynumberheader')]//div"));// (453,
@@ -50,7 +52,7 @@ public class TC_005_ReservationGuestPage extends BaseClasslogin {
 			String date = ele.getText();
 			dateCounter++;
 			// System.out.println(date); // once date is 28 then click and break
-			if (date.equals("29")) {
+			if (date.equals("04")) {
 				break;
 			}
 		}
@@ -87,23 +89,22 @@ public class TC_005_ReservationGuestPage extends BaseClasslogin {
 		GP.ExpirationDate();
 		GP.year("2023");
 		GP.save();
-		
-		WebElement Guestdetails=driver.findElement(By.xpath("//div[@id='guestinfodiv']//ul"));
-		List<WebElement> links = Guestdetails.findElements(By.xpath("//ul[@id='guestinfoui']//li[@class='list-group-item']"
-				+ ""));
-		for (int i = 1; i < links.size(); i++)
-		{
-		    System.out.println(links.get(i).getText());
+
+		WebElement Guestdetails = driver.findElement(By.xpath("//div[@id='guestinfodiv']//ul"));
+		List<WebElement> links = Guestdetails
+				.findElements(By.xpath("//ul[@id='guestinfoui']//li[@class='list-group-item']" + ""));
+		for (int i = 1; i < links.size(); i++) {
+			System.out.println(links.get(i).getText());
 		}
 	}
-
+@Test
 	public void verifycreateinvalidNewGuest() throws InterruptedException {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 
 		ReservationMenu reservation = new ReservationMenu(driver);
 		reservation.clickReservationMenu();
 		reservation.clickreservationgrid();
-
+		String unitname = "SMR001";
 		Actions act = new Actions(driver);
 		int singleDayWidth = 24;
 		int nights = 3;
@@ -111,11 +112,11 @@ public class TC_005_ReservationGuestPage extends BaseClasslogin {
 																													// 220
 																													// //
 																													// 220
-		WebElement unit = driver.findElement(By.xpath(
-				"//table[@class='table table-bordered table-striped unitscode-holder']//td[contains(@unit_id,'1503')]"));// 240,
-																															// 277
+		WebElement unit = driver.findElement(By.xpath("//table[@class='table table-bordered table-striped unitscode-holder']//td[contains(@unit_code,'"+ unitname + "')]"));// 240,
+												// 277
 		WebElement quote = driver.findElement(By.xpath("//a[@id='quickquotemodelanchor']"));
-
+		// Search unit
+				driver.findElement(By.xpath("//input[@name='username']")).sendKeys(unitname);
 		// this will find all matching nodes in calendar
 		List<WebElement> allDates = driver.findElements(By.xpath(
 				"//div[@class='day-header-holder']/table[@class='table']//tr[contains(@class,'daynumberheader')]//div"));// (453,
@@ -131,7 +132,7 @@ public class TC_005_ReservationGuestPage extends BaseClasslogin {
 			String date = ele.getText();
 			dateCounter++;
 			// System.out.println(date); // once date is 28 then click and break
-			if (date.equals("29")) {
+			if (date.equals("04")) {
 				break;
 			}
 		}
@@ -169,8 +170,6 @@ public class TC_005_ReservationGuestPage extends BaseClasslogin {
 		GP.year("2023");
 		GP.save();
 
-		
-		
 	}
 
 }
